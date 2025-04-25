@@ -1,0 +1,18 @@
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\bin\Debug\net8.0\Class 01 Advanced C#.exe
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\bin\Debug\net8.0\Class 01 Advanced C#.deps.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\bin\Debug\net8.0\Class 01 Advanced C#.runtimeconfig.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\bin\Debug\net8.0\Class 01 Advanced C#.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\bin\Debug\net8.0\Class 01 Advanced C#.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\refint\Class 01 Advanced C#.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.genruntimeconfig.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\ref\Class 01 Advanced C#.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\bin\Debug\net8.0\Task01.Logic.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\bin\Debug\net8.0\Task01.Logic.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01 Advanced C#.csproj.AssemblyReference.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 01 Advanced C#\Class 01 Advanced C#\obj\Debug\net8.0\Class 01.FBE205BA.Up2Date
