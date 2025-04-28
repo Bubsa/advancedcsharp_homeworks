@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 01 Advanced C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02639751-1F20-4FCF-8BC5-8F9E5241B55C}|Class 01 Advanced C#\\Class 01 Advanced C#.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 01 advanced c#\\class 01 advanced c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02639751-1F20-4FCF-8BC5-8F9E5241B55C}|Class 01 Advanced C#\\Class 01 Advanced C#.csproj|solutionrelative:class 01 advanced c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{073DA45F-5600-4663-ABC4-44FBE3F5EF68}|Task01.Logic\\Task01.Logic.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 01 advanced c#\\task01.logic\\services\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073DA45F-5600-4663-ABC4-44FBE3F5EF68}|Task01.Logic\\Task01.Logic.csproj|solutionrelative:task01.logic\\services\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{073DA45F-5600-4663-ABC4-44FBE3F5EF68}|Task01.Logic\\Task01.Logic.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 01 advanced c#\\task01.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073DA45F-5600-4663-ABC4-44FBE3F5EF68}|Task01.Logic\\Task01.Logic.csproj|solutionrelative:task01.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02639751-1F20-4FCF-8BC5-8F9E5241B55C}|Class 01 Advanced C#\\Class 01 Advanced C#.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 01 advanced c#\\class 01 advanced c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02639751-1F20-4FCF-8BC5-8F9E5241B55C}|Class 01 Advanced C#\\Class 01 Advanced C#.csproj|solutionrelative:class 01 advanced c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NameCountResult.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 01 Advanced C#\\Task01.Logic\\Models\\NameCountResult.cs",
               "RelativeDocumentMoniker": "Task01.Logic\\Models\\NameCountResult.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TextService.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 01 Advanced C#\\Task01.Logic\\Services\\TextService.cs",
               "RelativeDocumentMoniker": "Task01.Logic\\Services\\TextService.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 01 Advanced C#\\Task01.Logic\\Class1.cs",
               "RelativeDocumentMoniker": "Task01.Logic\\Class1.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 01 Advanced C#\\Class 01 Advanced C#\\Program.cs",
               "RelativeDocumentMoniker": "Class 01 Advanced C#\\Program.cs",
               "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 01 Advanced C#\\Class 01 Advanced C#\\Program.cs",
               "RelativeToolTip": "Class 01 Advanced C#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T15:39:00.464Z",
               "EditorCaption": ""
