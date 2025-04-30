@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\source\\repos\\Class 03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|c:\\users\\code\\source\\repos\\class 03\\polomorfizam i staticki klasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|solutionrelative:polomorfizam i staticki klasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|c:\\users\\code\\source\\repos\\class 03\\polomorfizam i staticki klasi\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|solutionrelative:polomorfizam i staticki klasi\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|c:\\users\\code\\source\\repos\\class 03\\polomorfizam i staticki klasi\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|solutionrelative:polomorfizam i staticki klasi\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|c:\\users\\code\\source\\repos\\class 03\\polomorfizam i staticki klasi\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|solutionrelative:polomorfizam i staticki klasi\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|c:\\users\\code\\source\\repos\\class 03\\polomorfizam i staticki klasi\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D80456-23B5-45F6-B2FE-DED84681CD03}|Polomorfizam i Staticki Klasi\\Polomorfizam i Staticki Klasi.csproj|solutionrelative:polomorfizam i staticki klasi\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\PetService.cs",
+              "RelativeDocumentMoniker": "Polomorfizam i Staticki Klasi\\PetService.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\PetService.cs",
+              "RelativeToolTip": "Polomorfizam i Staticki Klasi\\PetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:11:57.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Polomorfizam i Staticki Klasi\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Models\\Cat.cs",
+              "RelativeToolTip": "Polomorfizam i Staticki Klasi\\Models\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:05:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Polomorfizam i Staticki Klasi\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Models\\Dog.cs",
+              "RelativeToolTip": "Polomorfizam i Staticki Klasi\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:03:23.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Polomorfizam i Staticki Klasi\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Models\\Pet.cs",
+              "RelativeToolTip": "Polomorfizam i Staticki Klasi\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:01:54.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Program.cs",
+              "RelativeDocumentMoniker": "Polomorfizam i Staticki Klasi\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Class 03\\Polomorfizam i Staticki Klasi\\Program.cs",
+              "RelativeToolTip": "Polomorfizam i Staticki Klasi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:58:13.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

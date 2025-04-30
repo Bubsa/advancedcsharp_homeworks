@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Polomorfizam i Staticki Klasi/1.0.0": {
+        "runtime": {
+          "Polomorfizam i Staticki Klasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polomorfizam i Staticki Klasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

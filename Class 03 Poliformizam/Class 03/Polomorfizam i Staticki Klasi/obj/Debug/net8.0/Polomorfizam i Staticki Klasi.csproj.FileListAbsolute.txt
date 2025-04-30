@@ -1,0 +1,14 @@
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\bin\Debug\net8.0\Polomorfizam i Staticki Klasi.exe
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\bin\Debug\net8.0\Polomorfizam i Staticki Klasi.deps.json
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\bin\Debug\net8.0\Polomorfizam i Staticki Klasi.runtimeconfig.json
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\bin\Debug\net8.0\Polomorfizam i Staticki Klasi.dll
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\bin\Debug\net8.0\Polomorfizam i Staticki Klasi.pdb
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\Polomorfizam i Staticki Klasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\Polomorfizam i Staticki Klasi.AssemblyInfoInputs.cache
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\Polomorfizam i Staticki Klasi.AssemblyInfo.cs
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\Polomorfizam i Staticki Klasi.csproj.CoreCompileInputs.cache
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\Polomorfizam i Staticki Klasi.dll
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\refint\Polomorfizam i Staticki Klasi.dll
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\Polomorfizam i Staticki Klasi.pdb
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\Polomorfizam i Staticki Klasi.genruntimeconfig.cache
+C:\Users\code\source\repos\Class 03\Polomorfizam i Staticki Klasi\obj\Debug\net8.0\ref\Polomorfizam i Staticki Klasi.dll
