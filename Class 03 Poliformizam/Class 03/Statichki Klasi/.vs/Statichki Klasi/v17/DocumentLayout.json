@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\ordersstaticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\ordersstaticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\entities\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\entities\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\entities\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\entities\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\entities\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\entities\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|c:\\users\\code\\source\\repos\\statichki klasi\\statichki klasi\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA762A4F-2BAC-49E1-85C9-F503F53F27EC}|Statichki Klasi\\Statichki Klasi.csproj|solutionrelative:statichki klasi\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersStaticDB.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\OrdersStaticDB.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\OrdersStaticDB.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\OrdersStaticDB.cs",
+              "RelativeToolTip": "Statichki Klasi\\OrdersStaticDB.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:39:03.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Entities\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Statichki Klasi\\Entities\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:34:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextHelper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Helpers\\TextHelper.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Entities\\Helpers\\TextHelper.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Helpers\\TextHelper.cs",
+              "RelativeToolTip": "Statichki Klasi\\Entities\\Helpers\\TextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:27:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Entities\\Helpers\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "Statichki Klasi\\Entities\\Helpers\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:14:01.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Entities\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Statichki Klasi\\Entities\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:06:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Statichki Klasi\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:54:33.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Statichki Klasi\\Entities\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:52:11.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Entities\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Entities\\Models\\Order.cs",
+              "RelativeToolTip": "Statichki Klasi\\Entities\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:52:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Program.cs",
+              "RelativeDocumentMoniker": "Statichki Klasi\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\source\\repos\\Statichki Klasi\\Statichki Klasi\\Program.cs",
+              "RelativeToolTip": "Statichki Klasi\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvzMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:51:42.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
