@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 02 abstraktni klasi\\class 02 abstraktni klasi\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 02 abstraktni klasi\\class 02 abstraktni klasi\\consoleapp1\\entities\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 02 abstraktni klasi\\class 02 abstraktni klasi\\consoleapp1\\entities\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 02 abstraktni klasi\\class 02 abstraktni klasi\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 02 abstraktni klasi\\class 02 abstraktni klasi\\consoleapp1\\entities\\models\\devops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\interfaces\\ihuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 02 abstraktni klasi\\class 02 abstraktni klasi\\consoleapp1\\entities\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\interfaces\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 02 abstraktni klasi\\class 02 abstraktni klasi\\consoleapp1\\entities\\interfaces\\itester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC8DF78-8FD0-476C-AE87-2DB7B68A9681}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\interfaces\\itester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -66,8 +66,7 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\Interfaces\\IOperations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:36:35.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T18:36:35.857Z"
             },
             {
               "$type": "Document",
@@ -79,12 +78,11 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\Interfaces\\ITester.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:20:25.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T18:20:25.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "IDeveloper.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Entities\\Interfaces\\IDeveloper.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Interfaces\\IDeveloper.cs",
@@ -97,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IHuman.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Entities\\Interfaces\\IHuman.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Interfaces\\IHuman.cs",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\Interfaces\\IHuman.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:41:00.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T17:41:00.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Entities\\BaseEntity\\Human.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\BaseEntity\\Human.cs",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\BaseEntity\\Human.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T16:20:00.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T16:20:00.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Tester.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Entities\\Models\\Tester.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Models\\Tester.cs",
@@ -131,12 +127,11 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\Models\\Tester.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T16:16:25.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T16:16:25.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QAEngineer.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Entities\\Models\\QAEngineer.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Models\\QAEngineer.cs",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\Models\\QAEngineer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T16:16:01.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T16:16:01.81Z"
             },
             {
               "$type": "Document",
@@ -157,12 +151,11 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\Models\\Operations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T16:15:36.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T16:15:36.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DevOps.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Entities\\Models\\DevOps.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Models\\DevOps.cs",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "ConsoleApp1\\Entities\\Models\\DevOps.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T16:09:32.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T16:09:32.091Z"
             },
             {
               "$type": "Document",
@@ -181,14 +173,14 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Models\\Developer.cs",
               "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Entities\\Models\\Developer.cs",
               "RelativeToolTip": "ConsoleApp1\\Entities\\Models\\Developer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T15:54:33.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 02 Abstraktni Klasi\\Class 02 Abstraktni Klasi\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
