@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|solutionrelative:generichki i ekstenzivni metodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\helpers\\genericlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|solutionrelative:generichki i ekstenzivni metodi\\helpers\\genericlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\helpers\\notgenericlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|solutionrelative:generichki i ekstenzivni metodi\\helpers\\notgenericlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|solutionrelative:generichki i ekstenzivni metodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\entities\\data\\genericdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|solutionrelative:generichki i ekstenzivni metodi\\entities\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\generichki i ekstenzivni metodi\\helpers\\notgenericlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC95596-B93C-4297-90AF-173996CE7683}|Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi.csproj|solutionrelative:generichki i ekstenzivni metodi\\helpers\\notgenericlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IGenericDb.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Entities\\Interfaces\\IGenericDb.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Entities\\Interfaces\\IGenericDb.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Generichki i Ekstenzivni Metodi\\Entities\\Interfaces\\IGenericDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:11:06.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:11:06.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GenericDb.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Entities\\Data\\GenericDb.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Entities\\Data\\GenericDb.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "Generichki i Ekstenzivni Metodi\\Entities\\Data\\GenericDb.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:06:09.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:06:09.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Entities\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Entities\\Models\\Product.cs",
@@ -80,12 +78,11 @@
               "RelativeToolTip": "Generichki i Ekstenzivni Metodi\\Entities\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:02:23.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:02:23.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Entities\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Entities\\Models\\Order.cs",
@@ -93,12 +90,11 @@
               "RelativeToolTip": "Generichki i Ekstenzivni Metodi\\Entities\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:02:06.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:02:06.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Entities\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Entities\\Models\\BaseEntity.cs",
@@ -106,12 +102,11 @@
               "RelativeToolTip": "Generichki i Ekstenzivni Metodi\\Entities\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T17:01:23.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T17:01:23.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GenericListHelper.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Helpers\\GenericListHelper.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Helpers\\GenericListHelper.cs",
@@ -124,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "NotGenericListHelper.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Helpers\\NotGenericListHelper.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Helpers\\NotGenericListHelper.cs",
@@ -137,13 +132,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Program.cs",
               "RelativeDocumentMoniker": "Generichki i Ekstenzivni Metodi\\Program.cs",
               "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Generichki i Ekstenzivni Metodi\\Program.cs",
               "RelativeToolTip": "Generichki i Ekstenzivni Metodi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T15:47:35.934Z",
               "EditorCaption": ""

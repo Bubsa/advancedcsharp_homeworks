@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\ekstenzii\\ekstenzii\\helpers\\productextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|solutionrelative:ekstenzii\\helpers\\productextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\ekstenzii\\ekstenzii\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|solutionrelative:ekstenzii\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\ekstenzii\\ekstenzii\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|solutionrelative:ekstenzii\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\ekstenzii\\ekstenzii\\helpers\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|solutionrelative:ekstenzii\\helpers\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 04 generichki i ekstenzivni metodi\\ekstenzii\\ekstenzii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE5A780-B884-40E4-BFC4-C57420CA3DC0}|Ekstenzii\\Ekstenzii.csproj|solutionrelative:ekstenzii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Helpers\\ProductExtensions.cs",
+              "RelativeDocumentMoniker": "Ekstenzii\\Helpers\\ProductExtensions.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Helpers\\ProductExtensions.cs*",
+              "RelativeToolTip": "Ekstenzii\\Helpers\\ProductExtensions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:22:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ekstenzii\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Models\\Product.cs",
+              "RelativeToolTip": "Ekstenzii\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:20:10.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListHelper.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Helpers\\ListHelper.cs",
+              "RelativeDocumentMoniker": "Ekstenzii\\Helpers\\ListHelper.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Helpers\\ListHelper.cs",
+              "RelativeToolTip": "Ekstenzii\\Helpers\\ListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:07:46.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Helpers\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Ekstenzii\\Helpers\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Helpers\\StringExtensions.cs",
+              "RelativeToolTip": "Ekstenzii\\Helpers\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:11:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Program.cs",
+              "RelativeDocumentMoniker": "Ekstenzii\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 04 Generichki i Ekstenzivni Metodi\\Ekstenzii\\Ekstenzii\\Program.cs",
+              "RelativeToolTip": "Ekstenzii\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvzEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:03:47.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

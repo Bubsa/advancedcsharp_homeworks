@@ -1,0 +1,29 @@
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.exe
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.deps.json
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.runtimeconfig.json
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.dll
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.pdb
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.AssemblyInfoInputs.cache
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.AssemblyInfo.cs
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.csproj.CoreCompileInputs.cache
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.dll
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\refint\Ekstenzii.dll
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.pdb
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.genruntimeconfig.cache
+C:\Users\code\source\repos\Ekstenzii\Ekstenzii\obj\Debug\net8.0\ref\Ekstenzii.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.sourcelink.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\refint\Ekstenzii.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.exe
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.deps.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.runtimeconfig.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\bin\Debug\net8.0\Ekstenzii.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\Ekstenzii.genruntimeconfig.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 04 Generichki i Ekstenzivni Metodi\Ekstenzii\Ekstenzii\obj\Debug\net8.0\ref\Ekstenzii.dll
