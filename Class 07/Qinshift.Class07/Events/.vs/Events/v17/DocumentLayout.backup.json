@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 07\\qinshift.class07\\events\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 07\\qinshift.class07\\events\\events\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|solutionrelative:events\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 07\\qinshift.class07\\events\\events\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|solutionrelative:events\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|c:\\users\\code\\documents\\github\\advancedcsharp_homeworks\\class 07\\qinshift.class07\\events\\events\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8F9763-7ABF-408F-818E-ED03DE056F63}|Events\\Events.csproj|solutionrelative:events\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Models\\Market.cs",
+              "RelativeDocumentMoniker": "Events\\Models\\Market.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Models\\Market.cs",
+              "RelativeToolTip": "Events\\Models\\Market.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:08:24.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "Events\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Enums\\ProductType.cs",
+              "RelativeToolTip": "Events\\Enums\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:05:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Events\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Models\\User.cs",
+              "RelativeToolTip": "Events\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:03:42.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\code\\Documents\\GitHub\\advancedcsharp_homeworks\\Class 07\\Qinshift.Class07\\Events\\Events\\Program.cs*",
+              "RelativeToolTip": "Events\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:53:55.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
