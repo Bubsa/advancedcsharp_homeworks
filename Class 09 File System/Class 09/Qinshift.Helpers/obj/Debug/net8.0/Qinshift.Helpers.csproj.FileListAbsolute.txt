@@ -1,0 +1,12 @@
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\bin\Debug\net8.0\Qinshift.Helpers.deps.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\bin\Debug\net8.0\Qinshift.Helpers.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\bin\Debug\net8.0\Qinshift.Helpers.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\Qinshift.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\Qinshift.Helpers.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\Qinshift.Helpers.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\Qinshift.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\Qinshift.Helpers.sourcelink.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\Qinshift.Helpers.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\refint\Qinshift.Helpers.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\Qinshift.Helpers.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Qinshift.Helpers\obj\Debug\net8.0\ref\Qinshift.Helpers.dll

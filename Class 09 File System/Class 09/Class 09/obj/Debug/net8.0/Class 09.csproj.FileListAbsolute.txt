@@ -1,0 +1,19 @@
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\bin\Debug\net8.0\Class 09.exe
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\bin\Debug\net8.0\Class 09.deps.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\bin\Debug\net8.0\Class 09.runtimeconfig.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\bin\Debug\net8.0\Class 09.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\bin\Debug\net8.0\Class 09.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\bin\Debug\net8.0\Qinshift.Helpers.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\bin\Debug\net8.0\Qinshift.Helpers.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.csproj.AssemblyReference.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.sourcelink.json
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.csproj.Up2Date
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\refint\Class 09.dll
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.pdb
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\Class 09.genruntimeconfig.cache
+C:\Users\code\Documents\GitHub\advancedcsharp_homeworks\Class 09 File System\Class 09\Class 09\obj\Debug\net8.0\ref\Class 09.dll

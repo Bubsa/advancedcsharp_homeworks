@@ -1,0 +1,5 @@
+This is a simple note
+StreamWriter lets us write text line by line efficiently
+It also allows you to append or overwrite
+This is another note.
+StreamWriter is awesome
